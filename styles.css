@@ -1,0 +1,98 @@
+body {
+    font-family: 'Manrope', sans-serif;
+
+}
+
+.container {
+    margin: 0 auto;
+    width: 1150px;
+    height: 650px;
+    margin-left: 125px;
+    margin-bottom: 150px;
+}
+
+.container2 {
+    width: 1051px;
+    height: 518px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 400;
+    margin-top: 128px;
+    margin-bottom: 30px;
+    text-align: left;
+    color: #121212;
+
+}
+
+
+.p {
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: 400;
+    color: #000000;
+}
+
+h2 {
+    margin-bottom: 7px;
+    width: 60px;
+    height: 25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    
+    color: #121212;
+}
+
+.chair {
+    width: 1150px;
+    height: 300px;
+    background-image: url('../resources/chair.png');
+    background-repeat: no-repeat;
+    padding-top: 379px;
+    background-size: contain;
+}
+
+.chair-text {
+    size: 20px;
+    height: 81px;
+    font-size: 20px;
+    line-height: 27px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-right: 700px;
+    width: 450px;
+
+    color: #FFFFFF;
+    
+}
+
+h3 {
+    font-size: 45px;
+    line-height: 61.47px;
+    font-weight: 400;
+    margin-bottom: 31px;
+    width: 1048px;
+    height: 366px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: #121212;
+}
+
+a {
+    display: block;
+    border: 1px solid #AD1818;
+    border-radius: 5px;
+    width: 255px;
+    height: 67px;
+    text-align: center;
+    line-height: 67px;
+    text-decoration: none;
+    color: white;
+    background-color: #AD1818;
+    margin-top: 31px;
+
+}
